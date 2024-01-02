@@ -1,3 +1,4 @@
+console.log("commonlib running")
 const AIRTABLE_API_KEY = 'patidCkFtN0pknaOx.03339cc7d71663ce5ec19bfe300c3c1a394f53df82beb3e1429c5b49a7bd9946';
 const BASE_ID = 'appFuzXH2IrxndTLY';
 const TABLE_NAME = 'tblfcQoHpNQx2x1ZE';
