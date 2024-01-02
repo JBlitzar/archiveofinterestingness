@@ -1,4 +1,4 @@
-
+console.log("homepage.js running")
 function findRecordsForIds(records, ids) {
     const recordsForIds = [];
 
